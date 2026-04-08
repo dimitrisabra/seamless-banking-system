@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1020" cy="130" r="180" fill="#60A5FA" fill-opacity="0.18"/>
+  <circle cx="170" cy="520" r="220" fill="#93C5FD" fill-opacity="0.14"/>
+  <text x="96" y="250" fill="white" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="700">NexusBank</text>
+  <text x="96" y="330" fill="#BFDBFE" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="500">Seamless Banking System</text>
+  <text x="96" y="410" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="28">Multi-role banking dashboard for customers, admins,</text>
+  <text x="96" y="452" fill="#E2E8F0" font-family="Inter, Arial, sans-serif" font-size="28">managers, approvals, analytics, and maintenance teams.</text>
+</svg>
